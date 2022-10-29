@@ -22,14 +22,12 @@ Os usuários devem:
 
 ### Screenshot
 
-![](#)
+![](./images/Screenshot/Screenshot%202022-10-29%20at%2012-15-37%20Frontend%20Mentor%20card%20Grid%20Section.png)
 
 ### Links
 
-- Solução: [GitHub Repo](#)
-- Live Site URL: [GitHub live site](#)
-
-## Processo
+- Solução: [GitHub Repo](https://github.com/lucasfs022/Testimonial-Grid_Section)
+- Live Site URL: [GitHub live site](https://lucasfs022.github.io/Testimonial-Grid_Section/)
 
 ### Feito utilizando
 
