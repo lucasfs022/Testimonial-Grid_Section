@@ -66,6 +66,11 @@ body {
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.3);
 }
 
+.card:hover {
+    transition: all 0.4s;
+    transform: scale(1.04);
+}
+
 /* ===> CARDS <=== */
 
 .card:nth-child(1) {
