@@ -22,7 +22,7 @@ Os usuários devem:
 
 ### Screenshot
 
-![](./images/Screenshot/Screenshot%202022-10-29%20at%2012-15-37%20Frontend%20Mentor%20card%20Grid%20Section.png)
+![](./images/Screenshot/Screenshot.png)
 
 ### Links
 
